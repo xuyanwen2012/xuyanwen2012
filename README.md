@@ -30,7 +30,7 @@ struct developer {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xuyanwen2012&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/xuyanwen2012)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xuyanwen2012&theme=tokyonight&hide_border=true)](https://github.com/xuyanwen2012)
 
 </div>
 
