@@ -10,7 +10,7 @@
 struct developer {
     const char *name;       // "Yanwen (Ivan) Xu"
     const char *role;       // "GPU Engineer @ Samsung"
-    const char *languages;  // "C++, CUDA, Rust, TypeScript, C#, Python"
+    const char *languages;  // "C++, CUDA, Vulkan, Rust, Python"
     const char *interests;  // "GPU kernels, compilers, game engines"
 };
 ```
@@ -19,11 +19,9 @@ struct developer {
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Linux](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
@@ -31,13 +29,8 @@ struct developer {
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xuyanwen2012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuyanwen2012&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=xuyanwen2012&theme=tokyonight&hide_border=true)](https://github.com/xuyanwen2012)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xuyanwen2012&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/xuyanwen2012)
 
 </div>
 
